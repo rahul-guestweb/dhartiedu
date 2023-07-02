@@ -1,9 +1,3 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
 
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
@@ -18,7 +12,7 @@ body {
   font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #5c5c77;
+  color: #f0f0fc;
 }
 
 p, .paragraph {
@@ -321,7 +315,7 @@ a h4:hover {
 }
 
 .text-color {
-  color: #5c5c77;
+  color: #f0f0fc;
 }
 
 .text-light {
@@ -908,7 +902,7 @@ link:focus,
 }
 
 .bg-footer {
-  background-color: #182b45;
+  background-color: #041633;
 }
 
 .logo-footer {
@@ -917,7 +911,7 @@ link:focus,
 }
 
 .footer {
-  border-color: #494a43 !important;
+  border-color: #f1f2e9 !important;
   padding-top: 30px;
 }
 
@@ -927,8 +921,8 @@ link:focus,
   transition: 0.1s ease;
 }
 .filter-controls li.active {
-  font-weight: 600;
-  color: #ffbc3b;
+  font-weight: 1000;
+  color: #ffffff;
 }
 .filter-controls li:hover {
   color: #ffbc3b;
